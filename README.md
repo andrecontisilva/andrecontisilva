@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  <div align="center">
 
-| PORTFOLIO | LINKEDIN | HACKERHANK |
+| Portfolio | LinkedIn | HackerRank |
 | :---: | :---: | :---: |
 | <a href="https://github.com/andrecontisilva/Portfolio" target="_blank"><img src="https://i.imgur.com/7r1GAh5.png"></a> | <a href="https://www.linkedin.com/in/andreconti/" target="_blank"><img src="https://i.imgur.com/3Yiek8z.png"></a> |  <a href="https://www.hackerrank.com/Conti" target="_blank"><img src="https://i.imgur.com/8lkOSwP.png"></a> |
 
