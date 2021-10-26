@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You cand find out more about me at...
+You can find out more about me at...
 
 <!--
 **andrecontisilva/andrecontisilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
